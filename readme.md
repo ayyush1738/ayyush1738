@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyush1738&label=Profile%20views&color=0e75b6&style=flat" alt="ayyush1738" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyush1738" alt="ayyush1738" /></a> </p>
-
 - 🌱 I’m currently learning **Hyperledger**
 
 - 👨‍💻 All of my projects are available at [ayushsinghrathore.vercel.app](ayushsinghrathore.vercel.app)
