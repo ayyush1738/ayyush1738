@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyush1738&label=Profile%20views&color=0e75b6&style=flat" alt="ayyush1738" /> </p>
 
+<img align="right" width="400px" src="https://media.giphy.com/media/YKsDwhPMhh9S0/giphy.gif" />
+
 - 🌱 I’m currently learning **Hyperledger**
 
 - 👨‍💻 All of my projects are available at [ayushsinghrathore.vercel.app](ayushsinghrathore.vercel.app)
