@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ayush-portfolio-rust.vercel.app/]([ayushsinghrathore.vercel.app](https://ayush-portfolio-rust.vercel.app/))
 
-- 📝 I regularly write articles on [[ayushsinghrathore.vercel.app/blogs](https://medium.com/@singhrathoreayush1738)]([ayushsinghrathore.vercel.app/blogs](https://medium.com/@singhrathoreayush1738))
+- 📝 I regularly write articles on [https://medium.com/@singhrathoreayush1738](https://medium.com/@singhrathoreayush1738)
 
 - 💬 Ask me about **React, Ethereum, Solana, MERN, DevOps**
 
